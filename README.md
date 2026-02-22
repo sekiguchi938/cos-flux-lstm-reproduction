@@ -33,3 +33,11 @@
 * データ処理: `pandas`, `numpy`, `scikit-learn` (MinMaxScaler, train_test_split)
 * 機械学習モデル: `tensorflow.keras` (LSTM, Dropout, Adam, L2)
 * 可視化: `matplotlib`
+
+## 参考文献・引用元 (Reference)
+本プロジェクトは以下の論文に基づき実装されています。
+
+* **著者:** Shuai Liu, Wei He, Peipei Xu, Mengyao Zhao, Chengcheng Huang, Ngoc Tu Nguyen
+* **論文名:** Modeling carbonyl sulfide and carbon dioxide fluxes in a northern boreal coniferous forest using memory-based deep learning
+* **掲載誌:** Ecological Modelling, Volume 510, 2025.
+* **DOI:** [10.1016/j.ecolmodel.2025.111283](https://doi.org/10.1016/j.ecolmodel.2025.111283)
